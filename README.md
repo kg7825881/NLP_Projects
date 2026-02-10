@@ -4,7 +4,7 @@ A collection of my work in NLP, ranging from sentiment analysis to advanced emot
 
 ## 📂 Projects
 
-### 1. [Sentimates: E-Commerce Sentiment Intelligence](./ecommerce-sentiment)
+### 1. [Sentimates: E-Commerce Sentiment Intelligence](https://commerce-sentiment.streamlit.app/)
 **Tech Stack:** Python, Streamlit, Transformers (BERT), Spacy
 * **Description:** An AI-powered dashboard that analyzes product reviews to detect granular emotions (Joy, Anger, Disgust) and extract specific product aspects (e.g., "Battery", "Screen").
 * **Key Features:**
